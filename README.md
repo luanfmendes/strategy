@@ -32,7 +32,7 @@ Além disso, inclui:
 
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone [<url-do-repositorio>](https://github.com/luanfmendes/strategy.git)
    ```
 
 2. Compile o projeto:
@@ -47,7 +47,7 @@ Além disso, inclui:
 
 4. Para executar os testes unitários:
    ```bash
-   java -cp bin org.junit.runner.JUnitCore TestPaymentStrategies
+   java -cp bin org.junit.runner.JUnitCore PaymentStrategyTest
    ```
 
 ## Exemplo de Uso
