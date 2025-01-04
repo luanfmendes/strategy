@@ -1,5 +1,3 @@
-# Implementação do Design Pattern Strategy em Java
-
 ## Descrição do Projeto
 
 Este projeto demonstra a implementação do padrão de projeto Strategy em Java. O padrão Strategy é usado para encapsular diferentes algoritmos ou comportamentos em classes separadas, permitindo que eles sejam intercambiáveis de maneira flexível sem modificar o código do cliente.
